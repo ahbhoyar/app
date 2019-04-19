@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ScoreBoard</string>
+    <string name="none_paired">none</string>
+    <string name="title_temperature">Temperature:</string>
+    <string name="title_humidity">Humidity:</string>
+
+    <!-- data titles: -->
+    <string name="data_title_max_tempterature">MAX T:</string>
+    <string name="data_title_min_temperature">MIN T:</string>
+    <string name="data_title_max_humidity">MAX H:</string>
+    <string name="data_title_min_humidity">MIN H:</string>
+
+    <!-- commons: -->
+    <string name="common_enable_bluetooth">Enable Bluetooth!</string>
+    <string name="common_selected_device">Selected device:</string>
+    <string name="common_nan">NAN</string>
+    <string name="common_not_selected">Not selected</string>
+</resources>
